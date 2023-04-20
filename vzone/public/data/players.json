@@ -1,0 +1,144 @@
+{
+    "players": [
+        {
+            "id": "1",
+            "nickname": "kyzo",
+            "team_name": "Dirty Faces",
+            "score": 10975,
+            "city": "Alicante"
+        },
+        {
+            "id": "2",
+            "nickname": "Losgard",
+            "team_name": "Epic BBQ Team",
+            "score": 10580,
+            "city": "Alicante"
+        },
+        {
+            "id": "3",
+            "nickname": "slaktaren",
+            "team_name": "Knarkarna",
+            "score": 10355,
+            "city": "Alicante"
+        },
+        {
+            "id": "4",
+            "nickname": "Hasbulla",
+            "team_name": "Novos4ever",
+            "score": 9675,
+            "city": "Alicante"
+        },
+        {
+            "id": "5",
+            "nickname": "diegonav090",
+            "team_name": "chacal",
+            "score": 9210,
+            "city": "Alicante"
+        },
+        {
+            "id": "6",
+            "nickname": "Furiano",
+            "team_name": "Pistacho cerrao",
+            "score": 8755,
+            "city": "Alicante"
+        },
+        {
+            "id": "7",
+            "nickname": "EDWARD",
+            "team_name": "PEACH TEAM",
+            "score": 8730,
+            "city": "Alicante"
+        },
+        {
+            "id": "8",
+            "nickname": "Chumacho",
+            "team_name": "Te confirmo mañana",
+            "score": 8470,
+            "city": "Alicante"
+        },
+        {
+            "id": "9",
+            "nickname": "Potato",
+            "team_name": "napoli",
+            "score": 8440,
+            "city": "Alicante"
+        },
+        {
+            "id": "10",
+            "nickname": "Rai",
+            "team_name": "los jaris",
+            "score": 8325,
+            "city": "Alicante"
+        },
+        {
+            "id": "1",
+            "nickname": "Javichu",
+            "team_name": "Los jocosos del repris",
+            "score": 12725,
+            "city": "Madrid"
+        },
+        {
+            "id": "2",
+            "nickname": "Flequillitos",
+            "team_name": "El Feo, el Bueno, el Malo y el Guapo.",
+            "score": 10830,
+            "city": "Madrid"
+        },
+        {
+            "id": "3",
+            "nickname": "caballa",
+            "team_name": "XBetters",
+            "score": 9650,
+            "city": "Madrid"
+        },
+        {
+            "id": "4",
+            "nickname": "casty",
+            "team_name": "cuñaos",
+            "score": 9600,
+            "city": "Madrid"
+        },
+        {
+            "id": "5",
+            "nickname": "May",
+            "team_name": "Calagurris",
+            "score": 9510,
+            "city": "Madrid"
+        },
+        {
+            "id": "6",
+            "nickname": "Cachorrito",
+            "team_name": "El Feo, el Bueno, el Malo y el Guapo.",
+            "score": 12725,
+            "city": "Madrid"
+        },
+        {
+            "id": "7",
+            "nickname": "raul",
+            "team_name": "doble v team",
+            "score": 9050,
+            "city": "Madrid"
+        },
+        {
+            "id": "8",
+            "nickname": "Haken",
+            "team_name": "Campeones del mundo",
+            "score": 9020,
+            "city": "Madrid"
+        },
+        {
+            "id": "9",
+            "nickname": "Mike Guarroski",
+            "team_name": "Los ángeles de sobri",
+            "score": 8915,
+            "city": "Madrid"
+        },
+        {
+            "id": "10",
+            "nickname": "OatCereals",
+            "team_name": "MCR",
+            "score": 8870 ,
+            "city": "Madrid"
+        }
+    ]
+}

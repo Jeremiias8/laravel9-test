@@ -1,0 +1,136 @@
+{"teams":[{"city":"Alicante",
+"team_name":"Red Dragons",
+"experience_name":"Infinite Realms",
+"score":5163,"players":
+[{"id":1337,
+"nickname":"DragonSlayer","score":1257},
+{"id":5205,"nickname":"FireBreather","score":994},
+{"id":9242,"nickname":"DragonHeart","score":833},
+{"id":4679,"nickname":"DragonRider","score":1215},
+{"id":2318,"nickname":"Dragonborn","score":864}]},
+{"city":"Madrid","team_name":"Silver Knights",
+"experience_name":"Beyond Boundaries","score":6178,
+"players":
+[{"id":8619,"nickname":"KnightRider",
+"score":1458},
+{"id":4343,"nickname":"SwordMaster",
+"score":1064},
+{"id":5778,"nickname":"KnightTemplar",
+"score":1206},
+{"id":2083,"nickname":"KnightOfHonor",
+"score":1219},
+{"id":3579,"nickname":"ShieldBearer",
+"score":1231}]},{"city":"Valencia","team_name":
+"Star Explorers","experience_name":"Galactic Odyssey"
+,"score":4821,"players":
+[{"id":8778,
+"nickname":"StarGazer","score":1036},{"id":365,
+"nickname":"SpaceAdventurer","score":1098},
+{"id":6722,"nickname":"CosmicExplorer","score":829},
+{"id":9349,"nickname":"AstroNavigator",
+"score":985}]},{"city":"Alicante",
+"team_name":"Phoenix Rising","experience_name":
+"Dreamscape Adventures","score":8535,"players":
+[{"id":6605,"nickname":"DreamWeaver","score":2365},
+{"id":3089,"nickname":"FantasyHunter","score":2143},
+{"id":8678,"nickname":"ImaginationArtist",
+"score":2127}]},{"city":"Madrid",
+"team_name":"Mystic Runners","experience_name":
+"Infinite Realms","score":4468,"players":
+[{"id":9528,"nickname":"MysticSoul","score":958},
+{"id":8655,"nickname":"ShadowWalker","score":1042},
+{"id":5642,"nickname":"LightBearer","score":1235},
+{"id":4982,"nickname":"DreamCatcher","score":1233}]},
+{"city":"Valencia","team_name":"Cosmic Adventurers",
+"experience_name":"Beyond Boundaries","score":8311,
+"players":
+[{"id":3228,"nickname":"CosmicJumper",
+"score":2015},
+{"id":6136,"nickname":"GalacticNomad",
+"score":2349},
+{"id":7341,"nickname":"AstroVoyager",
+"score":1954}]},{"city":"Alicante","team_name":
+"Storm Chasers","experience_name":
+"Galactic Odyssey","score":9212,"players":
+[{"id":5259,"nickname":"StormCaller","score":2613},
+{"id":7227,"nickname":"Thunderbolt","score":1976},
+{"id":7215,"nickname":"LightningStriker",
+"score":2102},
+{"id":3257,"nickname":"RainDancer",
+"score":2521}]},{"city":"Madrid","team_name":
+"Phoenix Flames","experience_name":
+"Dreamscape Adventures","score":7153,"players":
+[{"id":"1",
+"nickname":"FlameCaster","score":1862},
+{"id":"2",
+"nickname":"DreamCrafter","score":1654},
+{"id":"3",
+"nickname":"FantasyWeaver","score":1568},
+{"id":"4",
+"nickname":"MagicMaker","score":2069}]},
+{"city":"Valencia","team_name":"Space Invaders",
+"experience_name":"Infinite Realms","score":5439,
+"players":
+[{"id":"1","nickname":"AlienHunter",
+"score":1248},
+{"id":"2","nickname":"StarChaser",
+"score":1396},
+{"id":"3","nickname":"GalacticWarrior",
+"score":1235},
+{"id":"4","nickname":"SpacePirate",
+"score":1560}]},{"city":"Alicante","team_name":
+"Storm Riders","experience_name":"Beyond Boundaries",
+"score":7825,"players":
+[{"id":"1","nickname":
+"WindRunner","score":1829},
+{"id":"2","nickname":
+"StormChaser","score":2130},
+{"id":"3","nickname":
+"TornadoTamer","score":1862},
+{"id":"4","nickname":
+"LightningRider","score":2004}]},{"city":"Madrid",
+"team_name":"Sword Masters","experience_name":
+"Galactic Odyssey","score":4254,"players":
+[{"id":"1","nickname":"GalacticSword","score":1003},
+{"id":"2","nickname":"LaserBlade","score":940},
+{"id":"3","nickname":"StarSlayer","score":1156},
+{"id":"4","nickname":"AlienAssassin",
+"score":1155}]},{"city":"Valencia","team_name":
+"Cosmic Crusaders","experience_name":
+"Dreamscape Adventures","score":8917,"players":
+[{"id":"1","nickname":"DreamCatcher","score":2145},
+{"id":"2","nickname":"FantasyHero","score":2158},
+{"id":"3","nickname":"MagicSeeker","score":2402},
+{"id":"4","nickname":"RealityWeaver","score":
+2212}]},{"city":"Alicante","team_name":
+"Infinite Explorers","experience_name":
+"Infinite Realms","score":5235,"players":
+[{"id":"1","nickname":"DimensionJumper",
+"score":1285},
+{"id":"2","nickname":
+"RealityExplorer","score":1496},
+{"id":"3"
+,"nickname":"MultiverseTraveler","score":1318},
+{"id":"4","nickname":"TimeWanderer",
+"score":1136}]},{"city":"Madrid","team_name":
+"Nova Squad","experience_name":"Beyond Boundaries",
+"score":6627,"players":
+[{"id":"1","nickname":
+"StarCaptain","score":1704},
+{"id":"2","nickname":
+"SpaceNavigator","score":1512},
+{"id":"3","nickname":
+"GalacticExplorer","score":1549},
+{"id":"4",
+"nickname":"AlienObserver","score":1862}]},
+{"city":"Valencia","team_name":"Dream Warriors",
+"experience_name":"Galactic Odyssey","score":8449,
+"players":
+[{"id":"1","nickname":"CosmicKnight",
+"score":2187},
+{"id":"2","nickname":
+"GalacticGuardian","score":2089},
+{"id":"3",
+"nickname":"AstroKnight","score":2040},
+{"id":"4",
+"nickname":"StarWarrior","score":2133}]}]}

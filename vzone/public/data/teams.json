@@ -1,0 +1,124 @@
+{
+    "teams": [
+        {
+            "id": "1",
+            "team_name": "Knarkarna",
+            "score": 852000,
+            "city": "Alicante"
+        },
+        {
+            "id": "2",
+            "team_name": "chacal",
+            "score": 686660,
+            "city": "Alicante"
+        },
+        {
+            "id": "3",
+            "team_name": "the orxeta boys",
+            "score": 666750,
+            "city": "Alicante"
+        },
+        {
+            "id": "4",
+            "team_name": "Dirty Faces",
+            "score": 653083,
+            "city": "Alicante"
+        },
+        {
+            "id": "5",
+            "team_name": "Epic BBQ Team",
+            "score": 643863,
+            "city": "Alicante"
+        },
+        {
+            "id": "6",
+            "team_name": "PEACH TEAM",
+            "score": 643250,
+            "city": "Alicante"
+        },
+        {
+            "id": "7",
+            "team_name": "necrothiles",
+            "score": 633833,
+            "city": "Alicante"
+        },
+        {
+            "id": "8",
+            "team_name": "Wynra",
+            "score": 620250,
+            "city": "Alicante"
+        },
+        {
+            "id": "9",
+            "team_name": "Survivors",
+            "score": 610500,
+            "city": "Alicante"
+        },
+        {
+            "id": "10",
+            "team_name": "PIPPI GNG",
+            "score": 602620,
+            "city": "Alicante"
+        },
+        {
+            "id": "1",
+            "team_name": "Calagurris",
+            "score": 808500,
+            "city": "Madrid"
+        },
+        {
+            "id": "2",
+            "team_name": "HA BROTHERS",
+            "score": 773190,
+            "city": "Madrid"
+        },
+        {
+            "id": "3",
+            "team_name": "El Feo, el bueno, el Malo y el Guapo.",
+            "score": 680150,
+            "city": "Madrid"
+        },
+        {
+            "id": "4",
+            "team_name": "Los Fiera",
+            "score": 663800,
+            "city": "Madrid"
+        },
+        {
+            "id": "5",
+            "team_name": "PolloTeam",
+            "score": 648920,
+            "city": "Madrid"
+        },
+        {
+            "id": "6",
+            "team_name": "Los tormentos",
+            "score": 648500,
+            "city": "Madrid"
+        },
+        {
+            "id": "7",
+            "team_name": "Alien Killers",
+            "score": 639063,
+            "city": "Madrid"
+        },
+        {
+            "id": "8",
+            "team_name": "Los griegos",
+            "score": 635920,
+            "city": "Madrid"
+        },
+        {
+            "id": "9",
+            "team_name": "Shrek y fiona",
+            "score": 632250,
+            "city": "Madrid"
+        },
+        {
+            "id": "10",
+            "team_name": "Angeles de Lin",
+            "score": 628550,
+            "city": "Madrid"
+        }
+    ]
+}
